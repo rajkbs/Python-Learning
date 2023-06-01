@@ -20,7 +20,7 @@
   ## 2. Python Variables
   The variable is a memory location where data can be stored, in python, the data type will be 	identified according to the data used. A variable starts with a letter or an underscore and cannot start with numbers, there are two 	ways of assigning values to a variable.
 	
-  	1. Assigning a value [Click Here](https://github.com/rajkbs/Python-Learning/blob/master/Variable/f01.py)
+  	1. Assigning a value [click](https://github.com/rajkbs/Python-Learning/blob/master/Variable/f01.py)
 	2. Multiple assignments
 	
 	
